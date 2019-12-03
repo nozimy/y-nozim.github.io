@@ -3,7 +3,7 @@ url: ''
 baseurl: '' #'https://nozimy.github.io'
 chrome_mobile_color: '#4285f4'
 
-analytics: #UA-83979019-1
+analytics: true #UA-83979019-1
 
 # Sass/SCSS
 sass:
