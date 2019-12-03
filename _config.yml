@@ -1,6 +1,6 @@
 title: Nozim Y
 url: ''
-baseurl: 'https://nozimy.github.io'
+baseurl: '' #'https://nozimy.github.io'
 chrome_mobile_color: '#4285f4'
 
 analytics: #UA-83979019-1
