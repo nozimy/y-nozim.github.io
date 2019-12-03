@@ -1,4 +1,20 @@
-theme: jekyll-theme-cayman
-title: Nozim
-description: https://nozimy.github.io/n/
+title: Nozim Y
+url: ''
+baseurl: 'https://nozimy.github.io'
+chrome_mobile_color: '#4285f4'
+
+analytics: #UA-83979019-1
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Build settings
+encoding: "utf-8"
+
+# Development Settings
+port: 4000
+host: 0.0.0.0
+safe: false
 
