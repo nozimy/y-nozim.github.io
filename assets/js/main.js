@@ -48,6 +48,6 @@ function batteryHandle(battery) {
 
 	let batteryAlert = document.querySelector('.batteryAlert');
 	let batteryLevel = document.querySelector('.batteryLevel');
-	batteryLevel.textContent = `${battery.level * 100}%`;
+	batteryLevel.textContent = `${Math.round(battery.level * 100)}%`;
 	batteryAlert.style.visibility = 'visible';
 }
